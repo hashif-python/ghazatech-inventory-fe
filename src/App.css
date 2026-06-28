@@ -1,0 +1,9 @@
+.App {
+    text-align: left;
+}
+
+/* Print styles for invoices/receipts */
+@media print {
+    aside, header { display: none !important; }
+    main { padding: 0 !important; margin: 0 !important; }
+}

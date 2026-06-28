@@ -1,0 +1,8 @@
+export const suppliers = [
+  { id: 'S-2001', code: 'SUP-001', name: 'Shenzhen Laptop Parts Co.', contact: 'Ms. Lily Wang', phone: '+86 755 8855 2210', email: 'lily@szlaptop.cn', country: 'China', category: 'China Supplier', trn: '-', payable: 28400, totalPurchases: 412000, status: 'Active' },
+  { id: 'S-2002', code: 'SUP-002', name: 'Dubai Computer Parts Trading', contact: 'Mr. Rashid Al Hammadi', phone: '+971 4 223 3450', email: 'sales@dxbparts.ae', country: 'UAE', category: 'UAE Distributor', trn: '100888777600003', payable: 14800, totalPurchases: 198400, status: 'Active' },
+  { id: 'S-2003', code: 'SUP-003', name: 'Laptop World Wholesale LLC', contact: 'Mr. Khalil Hassan', phone: '+971 50 442 1100', email: 'khalil@laptopworld.ae', country: 'UAE', category: 'Local Supplier', trn: '100777666500003', payable: 8950, totalPurchases: 145200, status: 'Active' },
+  { id: 'S-2004', code: 'SUP-004', name: 'TechSource Electronics', contact: 'Mr. Vivek Sharma', phone: '+971 55 332 8800', email: 'vivek@techsource.ae', country: 'UAE', category: 'Dubai Market Supplier', trn: '100666555400003', payable: 16700, totalPurchases: 168900, status: 'Active' },
+  { id: 'S-2005', code: 'SUP-005', name: 'Guangzhou Spare Parts Supplier', contact: 'Mr. Chen Wei', phone: '+86 20 8132 4455', email: 'chen@gzspare.cn', country: 'China', category: 'Import Supplier', trn: '-', payable: 9400, totalPurchases: 232100, status: 'Active' },
+  { id: 'S-2006', code: 'SUP-006', name: 'PrimeTech Manufacturers', contact: 'Mr. Aakash Patel', phone: '+91 22 4488 1100', email: 'aakash@primetech.in', country: 'India', category: 'Manufacturer', trn: '-', payable: 0, totalPurchases: 78400, status: 'Active' },
+];
